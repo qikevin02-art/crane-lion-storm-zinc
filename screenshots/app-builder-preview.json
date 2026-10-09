@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "雅静大王",
+      "hasCanvas": true,
+      "bodyTextLen": 102,
+      "bodyTextHash": "5e571b235ff39516edf0fa56f864fc56b8d8b36f4124df90039318045651134e",
+      "bodyTextPrefix": "YJ-01 雅静大王 俯视突击 · 波次清场 WASD 或方向键移动，指针拖动同样跟手 自动开火，锁定最近的敌人 拾取多重射击、",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "雅静大王",
+      "hasCanvas": true,
+      "bodyTextLen": 102,
+      "bodyTextHash": "5e571b235ff39516edf0fa56f864fc56b8d8b36f4124df90039318045651134e",
+      "bodyTextPrefix": "YJ-01 雅静大王 俯视突击 · 波次清场 WASD 或方向键移动，指针拖动同样跟手 自动开火，锁定最近的敌人 拾取多重射击、",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
